@@ -22,7 +22,7 @@ DevOps Lead at [Track Machines Connected](https://www.tmconnected.com/). Avid se
 | App | Description |
 | --- | --- |
 | [![GitHub](https://img.shields.io/badge/GitHub-immich--convert--originals-333?style=flat&logo=github&logoColor=white)](https://github.com/fabianwimberger/immich-convert-originals) | Batch-transcodes Immich photo libraries to save storage |
-| [![GitHub](https://img.shields.io/badge/GitHub-cloud--bench-333?style=flat&logo=github&logoColor=white)](https://github.com/fabianwimberger/cloud-bench) | Benchmarks CPU, memory, and disk across cloud providers |
+| [![GitHub](https://img.shields.io/badge/GitHub-archive--video--av1-333?style=flat&logo=github&logoColor=white)](https://github.com/fabianwimberger/archive-video-av1) | Distributed AV1 encoding cluster across LAN peers, PGO-optimized FFmpeg build |
 | [![GitHub](https://img.shields.io/badge/GitHub-linznetz--energy--tracker-333?style=flat&logo=github&logoColor=white)](https://github.com/fabianwimberger/linznetz-energy-tracker) | Dashboard for visualizing Austrian smart meter CSV exports |
 | [![Google Play](https://img.shields.io/badge/Google%20Play-Video%20Converter-333?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.fwit.videoconverter) | Android app for on-device video conversion via FFmpeg |
 
