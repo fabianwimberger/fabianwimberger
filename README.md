@@ -11,11 +11,11 @@ DevOps Lead at [Track Machines Connected](https://www.tmconnected.com/). Avid se
 
 | Site | Description |
 | --- | --- |
-| [![Website](https://img.shields.io/badge/Website-fw--fotos.at-333?style=flat&logo=firefox&logoColor=white)](https://fw-fotos.at/) | Website of my photography business |
+| [![Website](https://img.shields.io/badge/Website-fw--fotos.at-333?style=flat&logo=firefox&logoColor=white)](https://fw-fotos.at/) | Web presence of my photography business |
 | [![Website](https://img.shields.io/badge/Website-ip--check.me-333?style=flat&logo=firefox&logoColor=white)](https://ip-check.me/) | IPv4/IPv6 lookup tool for quick network investigations and troubleshooting |
 | [![Website](https://img.shields.io/badge/Website-cloud--bench-333?style=flat&logo=firefox&logoColor=white)](https://fabianwimberger.github.io/cloud-bench/) | Benchmarks CPU, memory, and disk across six cloud providers, with cost analysis |
 | [![Website](https://img.shields.io/badge/Website-lensea.gallery-333?style=flat&logo=firefox&logoColor=white)](https://lensea.gallery/) | Photo gallery hosting for photographers, with per-studio custom domains and TLS |
-| [![Website](https://img.shields.io/badge/Website-3d.fabianwimberger.at-333?style=flat&logo=firefox&logoColor=white)](https://3d.fabianwimberger.at/) | Parametric 3D print models: configure the dimensions and options you need and generate a matching STL on demand |
+| [![Website](https://img.shields.io/badge/Website-3d.fabianwimberger.at-333?style=flat&logo=firefox&logoColor=white)](https://3d.fabianwimberger.at/) | Generates STL files for 3D print models in custom configurations |
 
 ## Apps
 
