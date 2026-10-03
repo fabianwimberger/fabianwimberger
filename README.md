@@ -1,6 +1,6 @@
 # Fabian Wimberger
 
-DevOps Lead at [Track Machines Connected](https://www.tmconnected.com/). Avid self-hoster. Photographer since 2018.
+DevOps Lead at [Track Machines Connected](https://www.tmconnected.com/). Avid self-hoster. 3D print enthusiast. Photographer since 2018.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-wimberger/)
 [![Website](https://img.shields.io/badge/Website-fabianwimberger.at-333?style=flat&logo=firefox&logoColor=white)](https://fabianwimberger.at/)
@@ -11,15 +11,18 @@ DevOps Lead at [Track Machines Connected](https://www.tmconnected.com/). Avid se
 
 | Site | Description |
 | --- | --- |
+| [![Website](https://img.shields.io/badge/Website-fw--fotos.at-333?style=flat&logo=firefox&logoColor=white)](https://fw-fotos.at/) | Personal photography portfolio |
 | [![Website](https://img.shields.io/badge/Website-ip--check.me-333?style=flat&logo=firefox&logoColor=white)](https://ip-check.me/) | IPv4/IPv6 lookup tool for quick network investigations and troubleshooting |
 | [![Website](https://img.shields.io/badge/Website-cloud--bench-333?style=flat&logo=firefox&logoColor=white)](https://fabianwimberger.github.io/cloud-bench/) | Benchmarks CPU, memory, and disk across six cloud providers, with cost analysis |
 | [![Website](https://img.shields.io/badge/Website-lensea.gallery-333?style=flat&logo=firefox&logoColor=white)](https://lensea.gallery/) | Photo gallery hosting for photographers, with per-studio custom domains and TLS |
+| [![Website](https://img.shields.io/badge/Website-3d.fabianwimberger.at-333?style=flat&logo=firefox&logoColor=white)](https://3d.fabianwimberger.at/) | 3D printing projects and models |
 
 ## Apps
 
 | App | Description |
 | --- | --- |
 | [![GitHub](https://img.shields.io/badge/GitHub-immich--convert--originals-333?style=flat&logo=github&logoColor=white)](https://github.com/fabianwimberger/immich-convert-originals) | Batch-transcodes Immich photo libraries to save storage |
+| [![GitHub](https://img.shields.io/badge/GitHub-cloud--bench-333?style=flat&logo=github&logoColor=white)](https://github.com/fabianwimberger/cloud-bench) | Benchmarks CPU, memory, and disk across cloud providers |
 | [![GitHub](https://img.shields.io/badge/GitHub-linznetz--energy--tracker-333?style=flat&logo=github&logoColor=white)](https://github.com/fabianwimberger/linznetz-energy-tracker) | Dashboard for visualizing Austrian smart meter CSV exports |
 | [![Google Play](https://img.shields.io/badge/Google%20Play-Video%20Converter-333?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.fwit.videoconverter) | Android app for on-device video conversion via FFmpeg |
 
