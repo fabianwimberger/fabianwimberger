@@ -6,7 +6,6 @@ DevOps Lead at [Track Machines Connected](https://www.tmconnected.com/). Avid se
 [![Website](https://img.shields.io/badge/Website-fabianwimberger.at-333?style=flat&logo=firefox&logoColor=white)](https://fabianwimberger.at/)
 [![Email](https://img.shields.io/badge/Email-contact%40fabianwimberger.at-333?style=flat&logo=gmail&logoColor=white)](mailto:contact@fabianwimberger.at)
 [![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/c217bfe7-bee5-4623-8d6e-ddf8ef5e11bc/linked_in_profile)
-[![AWS Serverless](https://img.shields.io/badge/AWS-Serverless%20Demonstrated-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/510c1da1-d666-4f94-a587-74b1fcdc2d1c)
 
 ## Websites
 
