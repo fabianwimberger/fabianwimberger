@@ -30,6 +30,7 @@ DevOps Lead at [Track Machines Connected](https://www.tmconnected.com/). Avid se
 
 | Repo | Contribution |
 | --- | --- |
+| [![GitHub](https://img.shields.io/badge/GitHub-dockcheck-333?style=flat&logo=github&logoColor=white)](https://github.com/mag37/dockcheck/pull/317) | Checks platform image layers instead of the manifest digest |
 | [![GitHub](https://img.shields.io/badge/GitHub-immich-333?style=flat&logo=github&logoColor=white)](https://github.com/immich-app/immich/pull/28444) | Stabilized MIGraphX inference on ROCm |
 | [![GitHub](https://img.shields.io/badge/GitHub-pyload-333?style=flat&logo=github&logoColor=white)](https://github.com/pyload/pyload/pull/4734) | Drag-and-drop container upload to the queue |
 | [![GitHub](https://img.shields.io/badge/GitHub-video--compare-333?style=flat&logo=github&logoColor=white)](https://github.com/pixop/video-compare/pull/137) | Grain synthesis comparison use-case example |
